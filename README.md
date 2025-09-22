@@ -23,6 +23,18 @@ It displays the results in a table, provides downloadable files (CSV/Excel), and
    cd amazon-scraper-streamlit
    ```
 
+2. **Setup Virtual Environment**
+   ```bash
+   # create virtual environment
+   python -m venv venv
+   
+   # activate (Windows)
+   venv\Scripts\activate
+   
+   # activate (Linux/Mac)
+   source venv/bin/activate
+   ```
+   
 2. **Install Dependencies**
    Using the provided `requirements.txt`:
 
